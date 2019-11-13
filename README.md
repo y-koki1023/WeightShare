@@ -58,7 +58,8 @@ and more...
   - JavaScript
   - Html, css
 - サーバーサイド
-  - Ruby on Rails
+  - ~~Ruby on Rails~~
+  - Elixer?
   - MySQL
   - oAuth and OpenID connect (Twitter)
 - インフラ
